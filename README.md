@@ -1,9 +1,7 @@
-# Unidade-II-LOP
-
 //João Victor de Oliveira Santos
 //Turma: 2D
 
-//Definição de algumas variáveis para criação dos botões
+Definição de algumas variáveis para criação dos botões;
 var xBotao = 250;
 var yBotao = 240;
 var yBotao1 = 350;
